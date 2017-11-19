@@ -3,5 +3,5 @@
 - Regression with scikit-learn, supervised learning : see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
 
 # Other Projects
-- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb)
-- EDA, identification of trends in US firstnames: see [Names analysis](NamesAnalysis/NamesAnalysis.ipynb)
+- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp)
+- EDA, identification of trends in US firstnames: see [Names analysis](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
