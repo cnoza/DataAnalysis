@@ -14,6 +14,7 @@
 - Decision trees with scikit-learn: see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
 - SVM (Super Vector Machines) with scikit-learn: see [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb)
 - Hyperparameter tuning for the SVM classifier: see [Wine quality](Wine/Wine.ipynb)
+- NLP techniques: see [School budget](School%20budget/School%20budget.ipynb)
 
 # Plotting techniques
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
