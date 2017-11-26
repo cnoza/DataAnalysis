@@ -22,9 +22,9 @@
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 
-# Kaggle
-- [Titanic](Titanic/Titanic.ipynb)
-
 # Statistics
 - Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
+
+# Kaggle
+- [Titanic](Titanic/Titanic.ipynb)
