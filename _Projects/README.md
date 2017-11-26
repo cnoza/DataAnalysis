@@ -1,6 +1,7 @@
 # Machine Learning techniques
 - Preprocessing (missing values): see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - Preprocessing (centering & scaling, standardization method): see [Wine quality](Wine/Wine.ipynb)
+- Preprocessing (polynomial features): see [School budget](School%20budget/School%20budget.ipynb)
 - Pipelines with scikit-learn: see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [Wine quality](Wine/Wine.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
 - Regression with scikit-learn, supervised learning: see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
@@ -14,7 +15,7 @@
 - Decision trees with scikit-learn: see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
 - SVM (Super Vector Machines) with scikit-learn: see [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb)
 - Hyperparameter tuning for the SVM classifier: see [Wine quality](Wine/Wine.ipynb)
-- NLP techniques: see [School budget](School%20budget/School%20budget.ipynb)
+- NLP techniques (CountVectorizer, HashingVectorizer): see [School budget](School%20budget/School%20budget.ipynb)
 - Random Forest classifier: see [School budget](School%20budget/School%20budget.ipynb)
 
 # Plotting techniques
