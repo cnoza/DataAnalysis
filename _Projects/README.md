@@ -2,6 +2,8 @@
 - Preprocessing (missing values): see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - Preprocessing (centering & scaling, standardization method): see [Wine quality](Wine/Wine.ipynb)
 - Preprocessing (sparse interactions): see [School budget](School%20budget/School%20budget.ipynb)
+- Preprocessing (standard scaler): see [Wine](Wine/Kmeans.ipynb)
+- Preprocessing (normalizer): see [Stocks](Stocks/Kmeans.ipynb)
 - Pipelines with scikit-learn: see [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [Wine quality](Wine/Wine.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima diabetes](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
 - Regression with scikit-learn, supervised learning: see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
@@ -17,6 +19,7 @@
 - Hyperparameter tuning for the SVM classifier: see [Wine quality](Wine/Wine.ipynb)
 - NLP techniques (CountVectorizer, HashingVectorizer): see [School budget](School%20budget/School%20budget.ipynb)
 - Random Forest classifier: see [School budget](School%20budget/School%20budget.ipynb)
+- KMeans clustering, cross-tabulation (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb), [Stocks](Stocks/Kmeans.ipynb)
 
 # Plotting techniques
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
