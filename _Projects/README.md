@@ -20,6 +20,7 @@
 - NLP techniques (CountVectorizer, HashingVectorizer): see [School budget](School%20budget/School%20budget.ipynb)
 - Random Forest classifier: see [School budget](School%20budget/School%20budget.ipynb)
 - KMeans clustering, cross-tabulation (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
+- Hierarchical clustering (unsupervized learning): see [Eurovision](Eurovision/Hierarchies.ipynb), [Stocks](Stocks/KMeans.ipynb)
 
 # Plotting techniques
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
