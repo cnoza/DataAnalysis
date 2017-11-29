@@ -23,7 +23,9 @@
 - Random Forest classifier: see [School budget](School%20budget/School%20budget.ipynb)
 - KMeans clustering, cross-tabulation (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
 - Hierarchical clustering (unsupervized learning): see [Stocks](Stocks/KMeans.ipynb)
-- Dimension reduction (PCA): see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb)
+- Dimension reduction using PCA: see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb)
+- Dimension reduction using TruncateSVD: see [Wiki](Wikipedia%20articles/Analysis.ipynb)
+- Dimension reduction using NMF: see [Wiki](Wikipedia%20articles/Analysis.ipynb)
 
 # Plotting techniques
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
