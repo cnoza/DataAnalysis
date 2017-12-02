@@ -26,7 +26,7 @@
 - Dimension reduction using PCA: see [Grains](Grains/KMeans.ipynb), [Fish](Fish/KMeans.ipynb)
 - Dimension reduction using TruncateSVD: see [Wiki](Wikipedia%20articles/Analysis.ipynb)
 - Dimension reduction using NMF: see [Wiki](Wikipedia%20articles/Analysis.ipynb), [LCD digits](LCD%20digits/LCD%20digits.ipynb)
-- Neural Networks using Keras: see [Titanic](Titanic/Titanic.ipynb)
+- Neural Networks using Keras: see [Titanic](Titanic/Titanic.ipynb), [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb)
 
 # Plotting techniques
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
