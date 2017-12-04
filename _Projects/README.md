@@ -37,5 +37,8 @@
 - Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
 
+# Networks
+- Network analysis using Networkx: see [Networkx](Networks/NetworkX.ipynb)
+
 # Kaggle
 - [Titanic](Titanic/Titanic.ipynb)
