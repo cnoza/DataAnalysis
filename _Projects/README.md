@@ -35,7 +35,7 @@
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
 
 # Statistics
-- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb)
+- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
 
 # Networks
