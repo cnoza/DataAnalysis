@@ -5,6 +5,7 @@
 - Standard scaler: see [Wine](Wine/KMeans.ipynb)
 - Normalizer: see [Stocks](Stocks/KMeans.ipynb)
 - Pipelines with scikit-learn: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [Wine quality](Wine/Wine.ipynb), [School budget](School%20budget/School%20budget.ipynb)
+- Text tokenization using NLTK: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb)
 
 # Machine Learning techniques
 - K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
