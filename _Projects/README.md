@@ -42,9 +42,9 @@
 # Networks
 - Network analysis using Networkx: see [Networkx](Networks/NetworkX.ipynb)
 
-# Kaggle
-- [Titanic](Titanic/Titanic.ipynb)
-
 # Data acquisition
 - Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb)
 - Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb)
+
+# Kaggle
+- [Titanic](Titanic/Titanic.ipynb)
