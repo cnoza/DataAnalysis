@@ -8,8 +8,14 @@ I'm learning Data Science techniques mainly from online ressources such as blog 
 The training exercises are gathered in the [Courses folder](_Courses/) for reference.
 
 ## Projects
-Are also gathered here some projects applying the ML techniques learned on various datasets.  
-See the [Project folder](_Projects/README.md) for more information.
+Are also gathered here some projects applying the ML techniques learned on various datasets.  In summary:
+- Statistics: Hypothesis testing, Regularized Linear & Logistic Regression (Lasso, Ridge, ElasticNet)
+- Supervised Machine Learning: Decision Trees, kNN, Random Forests, SVM
+- Unsupervised Machine Learning: K Means & Hierarchical Clustering, Dimension reduction (PCA, TruncateSVD, NMF)
+- Deep learning/Neural Networks: Forward/Backward prop, ReLu, Gradient descent, Keras, optimization methods
+- Network analysis with NetworkX
+
+See the [Project folder](_Projects/README.md) for more detailed information.
 
 ## Certification
 To account for the various trainings followed, I'm gathering all the certificates earned through hard labor in the [Certification folder](_Certifications).
