@@ -34,9 +34,10 @@
 - Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
+- Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb)
 
 # Statistics
-- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb)
+- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
 
 # Networks
