@@ -38,6 +38,7 @@
 - Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb)
 - Line plots, spines, set_xlim, axhline, tick_params, savefig...: see [US gender gap](US%20gender%20gaps/Basics.ipynb)
 - Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb)
+- Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
 - Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb)
