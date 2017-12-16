@@ -31,7 +31,8 @@
 - Neural Networks using Keras: see [Titanic](Titanic/Titanic.ipynb), [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb)
 
 # Plotting techniques
-- Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
+- Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Titanic](Titanic/Titanic.ipynb)
+- FacetGrid with seaborn: see [Titanic](Titanic/Titanic.ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
 - Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb)
