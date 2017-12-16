@@ -48,8 +48,8 @@
 - Network analysis using Networkx: see [Networkx](Networks/NetworkX.ipynb)
 
 # Data acquisition
-- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb)
-- Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb)
+- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
+- Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
 
 # Kaggle
 - [Titanic](Titanic/Titanic.ipynb)
