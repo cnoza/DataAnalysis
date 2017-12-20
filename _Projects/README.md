@@ -7,6 +7,7 @@
 - Pipelines with scikit-learn: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [Wine quality](Wine/Wine.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - Text tokenization using NLTK: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb)
 - Merging multiple dataframes: see [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
+- Data cleaning: see [Star Wars survey](StarWars/Analysis.ipynb)
 
 # Machine Learning techniques
 - K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
@@ -42,7 +43,7 @@
 - Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
-- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
+- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 
 # Networks
