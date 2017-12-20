@@ -38,7 +38,7 @@
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
 - Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Line plots, spines, set_xlim, axhline, tick_params, savefig...: see [US gender gap](US%20gender%20gaps/Basics.ipynb)
-- Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb)
+- Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
