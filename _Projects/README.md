@@ -6,6 +6,7 @@
 - Normalizer: see [Stocks](Stocks/KMeans.ipynb)
 - Pipelines with scikit-learn: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [Wine quality](Wine/Wine.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - Text tokenization using NLTK: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb)
+- Merging multiple dataframes: see [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 
 # Machine Learning techniques
 - K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
@@ -35,14 +36,14 @@
 - Conditional plots with FacetGrid (seaborn): see [Titanic](Titanic/Titanic.ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
-- Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb)
+- Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Line plots, spines, set_xlim, axhline, tick_params, savefig...: see [US gender gap](US%20gender%20gaps/Basics.ipynb)
 - Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb)
 - Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
-- Basic EDA: see [Lego shapes analysis](Legos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
-- Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp)
+- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
+- Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 
 # Networks
 - Network analysis using Networkx: see [Networkx](Networks/NetworkX.ipynb)
