@@ -19,7 +19,7 @@ Are also gathered here some projects applying the ML techniques learned througho
 
 See the [Projects](_Projects/README.md) for more detailed information.  
 ### Installation
-I'm using the Anaconda Python distribution and Jupyter Notebooks to present the projects.  If you wish to run them on your own station, here is the [yml file](_Projects/_Env/py36.yml).  Instructions on how to install it can be found [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
+I'm using the Anaconda Python distribution and Jupyter Notebooks to present the projects.  If you wish to run them on your own station, here is the [yml file](_Projects/_Env/py36.yml).  Instructions on how to install it can be found [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). For the most usefull Conda commands, see [here](https://github.com/cnoza/DataAnalysis/blob/master/_CheatSheets/conda-cheatsheet.pdf).
 
 
 
