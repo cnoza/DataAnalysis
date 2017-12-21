@@ -2,7 +2,7 @@
 Welcome to this repository!
 
 ## About me
-I'm a Physicist, learning about Data Science techniques using Python (and fascinated!)
+I'm a Physicist, learning about Data Science techniques using Python (and fascinated by it!)
 
 ## Courses
 I'm learning Data Science techniques mainly from online ressources such as blog posts, learning platforms such as [Coursera](http://www.coursera.org), [Dataquest.io](http://www.dataquest.io), [Datacamp](http://www.datacamp.com) and others ([Kaggle](http://www.kaggle.com), [DataWorld](http://data.world), etc.).
