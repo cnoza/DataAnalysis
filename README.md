@@ -16,9 +16,11 @@ Are also gathered here some projects applying the ML techniques learned througho
 - Deep learning/Neural Networks: Forward/Backward prop, ReLu, Gradient descent, Keras, optimization methods
 - Natural Language Processing: Text tokenization using NLTK
 - Network analysis with NetworkX
+
+See the [Projects](_Projects/README.md) for more detailed information.  
 I'm using the Anaconda Python distribution and Jupiter Notebooks to present the projects.  If you wish to run them on your own station, here is the [yml file](_Projects/_Env/py36.yml).  Instructions on how to install it can be found [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
-See the [Projects](_Projects/README.md) for more detailed information.
+
 
 ## Certification
 To account for the various trainings followed, I'm gathering all the certificates earned through hard labor in the [Certification folder](_Certifications).
