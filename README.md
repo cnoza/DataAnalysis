@@ -1,8 +1,8 @@
 # Data Science Portfolio
 Welcome to this repository!
 
-## About
-Physicist, just fascinated by the field of Data Science and its endless possibilities.
+## About me
+I'm a Physicist, learning about Data Science techniques using Python (and fascinated!)
 
 ## Courses
 I'm learning Data Science techniques mainly from online ressources such as blog posts, learning platforms such as [Coursera](http://www.coursera.org), [Dataquest.io](http://www.dataquest.io), [Datacamp](http://www.datacamp.com) and others ([Kaggle](http://www.kaggle.com), [DataWorld](http://data.world), etc.).
@@ -16,6 +16,7 @@ Are also gathered here some projects applying the ML techniques learned througho
 - Deep learning/Neural Networks: Forward/Backward prop, ReLu, Gradient descent, Keras, optimization methods
 - Natural Language Processing: Text tokenization using NLTK
 - Network analysis with NetworkX
+I'm using the Anaconda Python distribution and Jupiter Notebooks to present the projects.  If you wish to run them on your own station, here is the [yml file](_Projects/_Env/py36.yml).  Instructions on how to install it can be found [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file).
 
 See the [Projects](_Projects/README.md) for more detailed information.
 
