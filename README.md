@@ -11,6 +11,7 @@ The training exercises are gathered in the [Courses folder](_Courses/) for refer
 
 ## Projects
 Are also gathered here some projects applying the ML techniques learned throughout the courses.  Here is a summarized list of techniques I had the opportunity to apply on various datasets:
+- Data acquisition: using API's, Web Scraping, SQLite, PostgreSQL
 - Statistics: Hypothesis testing, Regularized Linear & Logistic Regression (Lasso, Ridge, ElasticNet)
 - Supervised Machine Learning: Decision Trees, kNN, Random Forests, SVM
 - Unsupervised Machine Learning: K Means & Hierarchical Clustering, Dimension reduction (PCA, TruncateSVD, NMF)
