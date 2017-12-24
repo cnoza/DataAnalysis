@@ -52,6 +52,7 @@
 # Data acquisition
 - Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
 - Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
+- Using SQLite: see [CIA factbook data](CIA%20factbook%20data/Basics.ipynb)
 
 # Kaggle
 - [Titanic](Titanic/Titanic.ipynb)

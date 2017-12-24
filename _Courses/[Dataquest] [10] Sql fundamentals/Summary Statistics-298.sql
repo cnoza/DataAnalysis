@@ -3,7 +3,7 @@
 SELECT COUNT(Major) FROM recent_grads
 WHERE ShareWomen < 0.5
 
-## 2. Finding a Columns Minimum and Maximum Values in SQL ##
+## 2. Finding a Column's Minimum and Maximum Values in SQL ##
 
 select Major, Major_category, MIN(Median) from recent_grads
 where Major_category = 'Engineering'
