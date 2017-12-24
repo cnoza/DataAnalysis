@@ -1,3 +1,8 @@
+# Data acquisition
+- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
+- Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
+- Using SQLite: see [CIA factbook data](CIA%20factbook%20data/Basics.ipynb)
+
 # Preprocessing
 - Missing values: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [Pima II](PIMA%20Indians/Pima%20prediction.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [School budget](School%20budget/School%20budget.ipynb)
 - Centering & scaling, standardization method: see [Wine quality](Wine/Wine.ipynb)
@@ -48,11 +53,6 @@
 
 # Networks
 - Network analysis using Networkx: see [Networkx](Networks/NetworkX.ipynb)
-
-# Data acquisition
-- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
-- Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
-- Using SQLite: see [CIA factbook data](CIA%20factbook%20data/Basics.ipynb)
 
 # Kaggle
 - [Titanic](Titanic/Titanic.ipynb)
