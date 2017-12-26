@@ -26,7 +26,7 @@ This folder gathers the various exercises and projects made through the courses:
 - [Data acquisition using API's and Web Scraping](\[Dataquest\]%20\[13\]%20APIs%20and%20Web%20Scraping) 
     > requests, authentication, examples with OpenNotify, GitHub and Reddit API's, web scraping using BeautifulSoup
 - [Statistics I](\[Dataquest\]%20\[14\]%20Introduction%20to%20Statistics)
-    > discrete/continuous/ordinal/categorical scales, frequency histograms, data skew (`scipy.stats`), kurtosis (platykurtic/leptokurtic/mesokurtic distributions), modality (uni-/bi-/multimodal distributions), measures of central tendency (mean, median)
+    > discrete/continuous/ordinal/categorical scales, frequency histograms, data skew (`scipy.stats`), kurtosis (platykurtic/leptokurtic/mesokurtic distributions), modality (uni-/bi-/multimodal distributions), measures of central tendency (mean, median), standard deviation, r-value/Pearson's correlation
 
 # Other resources
 - [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
