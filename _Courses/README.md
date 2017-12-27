@@ -25,7 +25,7 @@ This folder gathers the various exercises and projects made through the courses:
     > [`PRAGMA table_info()`](https://sqlite.org/pragma.html#pragma_table_info), `INSERT`, `UPDATE`, `DELETE`, `ALTER TABLE`, [datatypes](https://www.sqlite.org/datatype3.html), foreign keys, `INNER JOIN`, `LEFT/RIGHT OUTER JOIN`, [database normalization](https://en.wikipedia.org/wiki/Database_normalization#Objectives), one-to-many/many-to-many relations, [PostgreSQL](http://www.postgresql.org/), [psycopg2](http://initd.org/psycopg/), [psql](http://www.postgresql.org/docs/9.4/static/app-psql.html), [PostgreSQL installation](http://www.bigsql.org/postgresql/installers.jsp)
 - [Data acquisition using API's and Web Scraping](\[Dataquest\]%20\[13\]%20APIs%20and%20Web%20Scraping) 
     > requests, authentication, examples with OpenNotify, GitHub and Reddit API's, web scraping using BeautifulSoup
-- [Statistics I](\[Dataquest\]%20\[14\]%20Introduction%20to%20Statistics)
+- [Statistics I](\[Dataquest\]%20\[14\]%20Probability%20and%20Statistics%20I)
     > discrete/continuous/ordinal/categorical scales, frequency histograms, data skew (`scipy.stats`), kurtosis (platykurtic/leptokurtic/mesokurtic distributions), modality (uni-/bi-/multimodal distributions), measures of central tendency (mean, median), standard deviation, r-value/Pearson's correlation
 
 # Other resources
