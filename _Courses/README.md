@@ -28,7 +28,7 @@ This folder gathers the various exercises and projects made through the courses:
 - [Probability & Statistics I](\[Dataquest\]%20\[14\]%20Probability%20and%20Statistics%20I)
     > discrete/continuous/ordinal/categorical scales, frequency histograms, data skew (`scipy.stats`), kurtosis (platykurtic/leptokurtic/mesokurtic distributions), modality (uni-/bi-/multimodal distributions), measures of central tendency (mean, median), standard deviation, r-value/Pearson's correlation, linear regression, [pandas.Series.idxmin()](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.idxmin.html), significance test
 - [Probability & Statistics II](\[Dataquest\]%20\[15\]%20Probability%20and%20Statistics%20II)
-    > disjunctive, dependent, conjunctive probabilities
+    > disjunctive, dependent, conjunctive probabilities, [scipy.special.binom](https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.special.binom.html)
 
 # Other resources
 - [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
