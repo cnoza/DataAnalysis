@@ -42,13 +42,13 @@
 - Conditional plots with FacetGrid (seaborn): see [Titanic](Titanic/Titanic.ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
-- Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
+- Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb)
 - Line plots, spines, set_xlim, axhline, tick_params, savefig...: see [US gender gap](US%20gender%20gaps/Basics.ipynb)
 - Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
-- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb)
+- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb) (person's r-value)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 
 # Networks
