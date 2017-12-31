@@ -30,7 +30,7 @@ This folder gathers the various exercises and projects made through the courses:
 - [Probability & Statistics II](\[Dataquest\]%20\[15\]%20Probability%20and%20Statistics%20II)
     > disjunctive, dependent, conjunctive probabilities, [scipy.stats.binom.pmf](https://docs.scipy.org/doc/scipy-0.16.1/reference/generated/scipy.stats.binom.html), [Binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution), (scipy.stats.binom.cdf)(https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.binom.html), [standard normal table](https://en.wikipedia.org/wiki/Standard_normal_table), hypothesis testing, statistical significance, [blind experiments](https://en.wikipedia.org/wiki/Blind_experiment), null hypothesis, alternative hypothesis, test statistic, permutation test, sampling distribution, p value, [type I error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors), [type II error](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors), chi squared distribution, chi squared test, degrees of freedom, [scipy.stats.chisquare](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mstats.chisquare.html), [chi-squared test of association](https://en.wikipedia.org/wiki/Chi-squared_test), [pandas.crosstab](http://pandas.pydata.org/pandas-docs/version/0.17.0/generated/pandas.crosstab.html), [scipy.stats.chi2_contingency](http://docs.scipy.org/doc/scipy-0.15.1/reference/generated/scipy.stats.chi2_contingency.html)
 - [Machine Learning Fundamentals]()
-    > K-Nearest Neighbors
+    > K-Nearest Neighbors, univariate case
 
 # Other resources
 - [Markdown syntax](https://daringfireball.net/projects/markdown/syntax)
