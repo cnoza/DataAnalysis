@@ -48,7 +48,7 @@
 - Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
 
 # Statistics
-- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb) (person's r-value)
+- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb) (pearson's r-value)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Chi-squared tests: see [Jeopardy](Jeopardy/Basics.ipynb)
 
