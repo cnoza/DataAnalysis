@@ -4,7 +4,7 @@
 - Using SQLite: see [CIA factbook data](CIA%20factbook%20data/Basics.ipynb), [Academy Awards I](Academy%20Awards%20(part%201)/Basics.ipynb), [Academy Awards II](Academy%20Awards%20(part%202)/Basics.ipynb)
 
 # Preprocessing
-- Missing values: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [Pima II](PIMA%20Indians/Pima%20prediction.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [School budget](School%20budget/School%20budget.ipynb)
+- Missing values: see [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [Pima II](PIMA%20Indians/Pima%20prediction.ipynb), [1984 US Congres votes](1984%20US%20Congres%20votes/Supervised%20Learning%20with%20scikit-learn.ipynb), [School budget](School%20budget/School%20budget.ipynb), [Car prices](Car%20prices/Basics.ipynb)
 - Centering & scaling, standardization method: see [Wine quality](Wine/Wine.ipynb)
 - Sparse interactions: see [School budget](School%20budget/School%20budget.ipynb)
 - Standard scaler: see [Wine](Wine/KMeans.ipynb)
@@ -15,7 +15,7 @@
 - Data cleaning: see [Star Wars survey](StarWars/Analysis.ipynb)
 
 # Machine Learning techniques
-- K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb)
+- K-NN classifier with scikit-learn, supervised learning: see [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb), [Pima I](PIMA%20Indians/K-NN%20classifier%20diabetes.ipynb), [Car prices](Car%20prices/Basics.ipynb)
 - Regression with scikit-learn, supervised learning: see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
 - Lasso (L1) & Ridge (L2) regularized regression with scikit-learn, supervised learning: see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb)
 - Ridge (L2) regularized regression with scikit-learn, supervised learning: see [Boston housing](Boston%20housing/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Auto](Automobile/Data%20Preprocessing.ipynb)
@@ -38,7 +38,7 @@
 - Neural Networks using Keras: see [Titanic](Titanic/Titanic.ipynb), [MNIST digits recognition](MNIST%20digits%20recognition/K-NN%20classifier%20with%20scikit-learn%20(supervised%20learning).ipynb)
 
 # Plotting techniques
-- Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Titanic](Titanic/Titanic.ipynb)
+- Heatmap with seaborn: see [Gapminder I](Gapminder/Regression%20with%20scikit-learn%20(supervised%20learning).ipynb), [Titanic](Titanic/Titanic.ipynb), [Car prices](Car%20prices/Basics.ipynb)
 - Conditional plots with FacetGrid (seaborn): see [Titanic](Titanic/Titanic.ipynb)
 - Boxplot (pandas): see [Gapminder II](Gapminder/Regression%20with%20categorical%20features.ipynb)
 - t-SNE visualization (unsupervized learning): see [Grains](Grains/KMeans.ipynb), [Stocks](Stocks/KMeans.ipynb)
