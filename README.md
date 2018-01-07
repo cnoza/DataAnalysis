@@ -20,11 +20,14 @@ Are also gathered here some projects applying the ML techniques learned througho
 - Network analysis with NetworkX
 
 
-See the [Projects](_Projects/README.md) for more detailed information.  I'm also enjoying learning how to build interesting data visualisations using Tableau.  Click [here](https://public.tableau.com/profile/christophe.nozaradan#!/) to access my profile page on Tableau public.
+See the [Projects](_Projects/README.md) for more detailed information.
 
 ### Installation
 I'm using the Anaconda Python distribution and Jupyter Notebooks to present the projects.  If you wish to run them on your own station, here is the [yml file](_Projects/_Env/py36.yml).  Instructions on how to create an virtual environment and install it can be found [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file). For the most useful Conda commands, see [here](https://github.com/cnoza/DataAnalysis/blob/master/_CheatSheets/conda-cheatsheet.pdf).
 
+
+## Data visualisation
+I'm also enjoying learning how to build interesting data visualisations using Tableau.  Click [here](https://public.tableau.com/profile/christophe.nozaradan#!/) to access my profile page on Tableau public.
 
 
 ## Certification
