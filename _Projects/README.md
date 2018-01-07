@@ -57,3 +57,14 @@
 
 # Kaggle
 - [Titanic](Titanic/Titanic.ipynb)
+
+# Tableau visualisations (Tableau public)
+- [Profile page](https://public.tableau.com/profile/christophe.nozaradan)
+- [Geographical mapping](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Geographicalmapping/Dashboard1)
+- [Pyramid chart](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Pyramidchart/Dashboard1)
+- [Dynamic reference line](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/ActualForecast/Dashboard1)
+- [Dual Axis Chart with Overlapping Bars & Line](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Combinationchartwithoverlappingbarsline/Dashboard1)
+- [Lollipop Chart](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/LollipopChart_15/Dashboard1)
+- [Aged 15+ labour force participation rate (%)](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Aged15labourforceparticipationrate/Dashboard1)
+- [Regional Sales and Profits](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/RegionalSalesandProfits_594/ImproveProfitsintheSouth)
+- [Profit seasonality](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Tutorial-Data-World/ProfitSeasonality)
