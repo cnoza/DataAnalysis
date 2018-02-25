@@ -60,7 +60,7 @@
 
 # Tableau visualisations (Tableau public)
 - [Profile page](https://public.tableau.com/profile/christophe.nozaradan)
-- [Cryptocurrencies] (https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Cryptocurrencies_0/Dashboard1) (dataset available [here](https://data.world/cnoza/cryptocurrencies))
+- [Cryptocurrencies](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Cryptocurrencies_0/Dashboard1) (dataset available [here](https://data.world/cnoza/cryptocurrencies))
 - [Geographical mapping](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Geographicalmapping/Dashboard1)
 - [Pyramid chart](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/Pyramidchart/Dashboard1)
 - [Dynamic reference line](https://public.tableau.com/profile/christophe.nozaradan#!/vizhome/ActualForecast/Dashboard1)
