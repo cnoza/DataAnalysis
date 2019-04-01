@@ -1,5 +1,5 @@
 # Data acquisition
-- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb), [Coinmarketcap](https://data.world/cnoza/cryptocurrencies)
+- Using APIs: see [Twitter](Twitter/Twitter%20Data%20Mining.ipynb), [APIs](API-WebScraping/Data%20Acquisition%20Using%20APIs.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb), [Coinmarketcap](https://data.world/cnoza/cryptocurrencies), [Empirical Analysis](Finance/Empirical_Analysis.ipynb)
 - Web Scraping: see [Web Scraping](API-WebScraping/Data%20Acquisition%20Using%20Web%20Scraping.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Bitcoin](Bitcoin/Analysis.ipynb)
 - Using SQLite: see [CIA factbook data](CIA%20factbook%20data/Basics.ipynb), [Academy Awards I](Academy%20Awards%20(part%201)/Basics.ipynb), [Academy Awards II](Academy%20Awards%20(part%202)/Basics.ipynb)
 
@@ -45,10 +45,10 @@
 - Grouped bar plots, scatter plots, box, plots, histograms, scatter matrix, hexbin plots: see [US job earnings](US%20job%20earnings/Basics.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb)
 - Line plots, spines, set_xlim, axhline, tick_params, savefig...: see [US gender gap](US%20gender%20gaps/Basics.ipynb)
 - Geographical data using Basemap: see [Geo](Geo/Visualizing%20Geographical%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
-- Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb)
+- Time series: see [Bitcoin](Bitcoin/Analysis.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [Empirical Analysis](Finance/Empirical_Analysis.ipynb)
 
 # Statistics
-- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb) (pearson's r-value)
+- Exploratory Data Analysis (EDA): see [Lego shapes analysis](Lgos/Legos.ipynb) (Datacamp), [US Births](US%20Births/Basics.ipynb), [US gun deaths](US%20gun%20deaths/Basics.ipynb), [Thanksgiving](Thanksgiving/Basics.ipynb), [US job earnings](US%20job%20earnings/Basics.ipynb), [Finance](Finance/Managing%20Financial%20Data.ipynb), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb), [Star Wars survey](StarWars/Analysis.ipynb), [Movie reviews](Movie%20reviews/Basics.ipynb) (pearson's r-value), [Empirical Analysis](Finance/Empirical_Analysis.ipynb)
 - Manipulating pandas dataframes: see [US firstnames trends](NamesAnalysis/NamesAnalysis.ipynb) (Datacamp), [NYC High Schools](NYC%20High%20Schools/Schools.ipynb)
 - Chi-squared tests: see [Jeopardy](Jeopardy/Basics.ipynb)
 
