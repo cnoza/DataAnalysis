@@ -3,7 +3,7 @@
 Welcome to this repository!
 
 ## About me
-I'm a Physicist, learning about Data Science techniques using Python and R (and fascinated by it!)
+I hold a M.S. in Physics and an Advanced M.S.c. in Financial Risk Management. I'm learning about Data Science techniques using Python and R (and I'm fascinated by it!)
 
 ## Courses
 I'm learning Data Science techniques mainly from online ressources such as blog posts, learning platforms such as [Coursera](http://www.coursera.org), [Dataquest.io](http://www.dataquest.io), [Datacamp](http://www.datacamp.com) and others ([Kaggle](http://www.kaggle.com), [DataWorld](http://data.world), etc.).
